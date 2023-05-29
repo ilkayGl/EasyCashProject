@@ -1,0 +1,17 @@
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\bin\Debug\net6.0\EasyCash.DataAccessLayer.deps.json
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\bin\Debug\net6.0\EasyCash.DataAccessLayer.dll
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\bin\Debug\net6.0\EasyCash.DataAccessLayer.pdb
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\EasyCash.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\EasyCash.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\EasyCash.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\EasyCash.DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\EasyCash.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\EasyCash.DataAccessLayer.dll
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\refint\EasyCash.DataAccessLayer.dll
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\EasyCash.DataAccessLayer.pdb
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\ref\EasyCash.DataAccessLayer.dll
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\bin\Debug\net6.0\EasyCash.DataAccessLayer.runtimeconfig.json
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\EasyCash.DataAccessLayer.genruntimeconfig.cache
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\bin\Debug\net6.0\EasyCash.EntityLayer.dll
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\bin\Debug\net6.0\EasyCash.EntityLayer.pdb
+C:\Users\User\Masaustu\Easy-Cash\EasyCash\EasyCash.DataAccessLayer\obj\Debug\net6.0\EasyCash.DataAccessLayer.csproj.CopyComplete
